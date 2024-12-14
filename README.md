@@ -14,6 +14,6 @@ Technology Used : HTML & CSS
 
 Output : 
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Code-Camp-Survey-Form/blob/9b962999ec8e3447fb5489b8a2b3545a41196da9/Output%201.png)
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Code-Camp-Survey-Form/blob/9b962999ec8e3447fb5489b8a2b3545a41196da9/Output%202.png)
